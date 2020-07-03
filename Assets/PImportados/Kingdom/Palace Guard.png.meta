@@ -1,0 +1,1474 @@
+fileFormatVersion: 2
+guid: 6e45aeeef81ce8a41946e3838df93944
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3359701098477537628
+    second: Palace Guard_0
+  - first:
+      213: 4717614844132725106
+    second: Palace Guard_1
+  - first:
+      213: -404520030679715727
+    second: Palace Guard_2
+  - first:
+      213: 5259305823411852617
+    second: Palace Guard_3
+  - first:
+      213: 3148344716999163731
+    second: Palace Guard_4
+  - first:
+      213: -4474293827917498200
+    second: Palace Guard_5
+  - first:
+      213: 7392108994975342452
+    second: Palace Guard_6
+  - first:
+      213: -4824522765707928817
+    second: Palace Guard_7
+  - first:
+      213: 8887642005732258256
+    second: Palace Guard_8
+  - first:
+      213: 8200806101771412593
+    second: Palace Guard_9
+  - first:
+      213: -428091972753734280
+    second: Palace Guard_10
+  - first:
+      213: 1509338699449800451
+    second: Palace Guard_11
+  - first:
+      213: -7021067608392200691
+    second: Palace Guard_12
+  - first:
+      213: -7081783946326370128
+    second: Palace Guard_13
+  - first:
+      213: 2698454218340794169
+    second: Palace Guard_14
+  - first:
+      213: -9055341097467905807
+    second: Palace Guard_15
+  - first:
+      213: 4150369011645411485
+    second: Palace Guard_16
+  - first:
+      213: -2180131893244681329
+    second: Palace Guard_17
+  - first:
+      213: 3117917288254260823
+    second: Palace Guard_18
+  - first:
+      213: -4104637466383763280
+    second: Palace Guard_19
+  - first:
+      213: 8717060150878554991
+    second: Palace Guard_20
+  - first:
+      213: -1433511036173799779
+    second: Palace Guard_21
+  - first:
+      213: 2526080281208987246
+    second: Palace Guard_22
+  - first:
+      213: 7355971167317194550
+    second: Palace Guard_23
+  - first:
+      213: 5894458980967719491
+    second: Palace Guard_24
+  - first:
+      213: -1492834621185660074
+    second: Palace Guard_25
+  - first:
+      213: 3212114490302771361
+    second: Palace Guard_26
+  - first:
+      213: 287822465060321922
+    second: Palace Guard_27
+  - first:
+      213: -6609850208558542692
+    second: Palace Guard_28
+  - first:
+      213: 5771407338448296121
+    second: Palace Guard_29
+  - first:
+      213: 8848269507647651173
+    second: Palace Guard_30
+  - first:
+      213: 3340499605358153702
+    second: Palace Guard_31
+  - first:
+      213: -8866346984039140149
+    second: Palace Guard_32
+  - first:
+      213: 4852550179186776387
+    second: Palace Guard_33
+  - first:
+      213: 7848015271851242337
+    second: Palace Guard_34
+  - first:
+      213: 8095304674312235231
+    second: Palace Guard_35
+  - first:
+      213: 142499185677336704
+    second: Palace Guard_36
+  - first:
+      213: 7199890801655334925
+    second: Palace Guard_37
+  - first:
+      213: 5217322089573940569
+    second: Palace Guard_38
+  - first:
+      213: 4484376544375242474
+    second: Palace Guard_39
+  - first:
+      213: -1008492670491745297
+    second: Palace Guard_40
+  - first:
+      213: 6625412527156844840
+    second: Palace Guard_41
+  - first:
+      213: 2291197498931348586
+    second: Palace Guard_42
+  - first:
+      213: -4301965790492841706
+    second: Palace Guard_43
+  - first:
+      213: 8804884387230739945
+    second: Palace Guard_44
+  - first:
+      213: -5372001208033312409
+    second: Palace Guard_45
+  - first:
+      213: -8161087556584747971
+    second: Palace Guard_46
+  - first:
+      213: 7528005481199599859
+    second: Palace Guard_47
+  - first:
+      213: -2612817188061327710
+    second: Palace Guard_48
+  - first:
+      213: -4375931212068786835
+    second: Palace Guard_49
+  - first:
+      213: -9012074322796742797
+    second: Palace Guard_50
+  - first:
+      213: -7554755411514632928
+    second: Palace Guard_51
+  - first:
+      213: -2571087255011884953
+    second: Palace Guard_52
+  - first:
+      213: -2098321628884287729
+    second: Palace Guard_53
+  - first:
+      213: 3209876778795455598
+    second: Palace Guard_54
+  - first:
+      213: -9071049915242609864
+    second: Palace Guard_55
+  - first:
+      213: -5045134061915479985
+    second: Palace Guard_56
+  - first:
+      213: -5416410087798578324
+    second: Palace Guard_57
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Palace Guard_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 333
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c594e3e395e00ae20800000000000000
+      internalID: 3359701098477537628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 333
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27114aba4b5587140800000000000000
+      internalID: 4717614844132725106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 333
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1703ec2ec2bd26af0800000000000000
+      internalID: -404520030679715727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 333
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9455b9908ceccf840800000000000000
+      internalID: 5259305823411852617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_4
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 333
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f7637e6da21bb20800000000000000
+      internalID: 3148344716999163731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_5
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 333
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a83146287d18e1c0800000000000000
+      internalID: -4474293827917498200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_6
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 333
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f997247fb069660800000000000000
+      internalID: 7392108994975342452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_7
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 333
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b91332b1adb0db0800000000000000
+      internalID: -4824522765707928817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_8
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 333
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1f282c05f375b70800000000000000
+      internalID: 8887642005732258256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_9
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 333
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174e0f723bd1fc170800000000000000
+      internalID: 8200806101771412593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_10
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 333
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87541d07e9c1f0af0800000000000000
+      internalID: -428091972753734280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_11
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 333
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3079472ec8f32f410800000000000000
+      internalID: 1509338699449800451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_12
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 333
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e08c99538209e90800000000000000
+      internalID: -7021067608392200691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_13
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 333
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8172f850378bd90800000000000000
+      internalID: -7081783946326370128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 243
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f7bd680d5d27520800000000000000
+      internalID: 2698454218340794169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_15
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 243
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8fd65cf37f45280800000000000000
+      internalID: -9055341097467905807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_16
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 243
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90f9e160a2199930800000000000000
+      internalID: 4150369011645411485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 243
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83a6ab089d9eb1e0800000000000000
+      internalID: -2180131893244681329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_18
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 243
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756c1751141154b20800000000000000
+      internalID: 3117917288254260823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_19
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 243
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8bf6cb8f56907c0800000000000000
+      internalID: -4104637466383763280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_20
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 243
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b44d2b50839f870800000000000000
+      internalID: 8717060150878554991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_21
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 243
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e2243ce452b1ce0800000000000000
+      internalID: -1433511036173799779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_22
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 243
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e949bc1a07e0320800000000000000
+      internalID: 2526080281208987246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_23
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 243
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637f4f59dc8a51660800000000000000
+      internalID: 7355971167317194550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_24
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 243
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34221b786335dc150800000000000000
+      internalID: 5894458980967719491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_25
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 243
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65be2d742d2684be0800000000000000
+      internalID: -1492834621185660074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 154
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0b1644c19b39c20800000000000000
+      internalID: 3212114490302771361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_27
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 154
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a3c4cc10d8ef300800000000000000
+      internalID: 287822465060321922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_28
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 154
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90935c71481544a0800000000000000
+      internalID: -6609850208558542692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_29
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 154
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b81b466568281050800000000000000
+      internalID: 5771407338448296121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 103
+        width: 74
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d3240bc3e5bca70800000000000000
+      internalID: 8848269507647651173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_31
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 103
+        width: 74
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef84bd31b6db5e20800000000000000
+      internalID: 3340499605358153702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_32
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 103
+        width: 74
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4bdf8d46864f480800000000000000
+      internalID: -8866346984039140149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_33
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 103
+        width: 74
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3499f259da8b75340800000000000000
+      internalID: 4852550179186776387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_34
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 103
+        width: 74
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163b8862f40c9ec60800000000000000
+      internalID: 7848015271851242337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_35
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 103
+        width: 74
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8a0f4e5bc485070800000000000000
+      internalID: 8095304674312235231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_36
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 103
+        width: 74
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080841f11424af100800000000000000
+      internalID: 142499185677336704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_37
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 103
+        width: 74
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08c44699862be360800000000000000
+      internalID: 7199890801655334925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_38
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 103
+        width: 74
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d7ad34cc6a76840800000000000000
+      internalID: 5217322089573940569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_39
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 103
+        width: 74
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee749635b4bb3e30800000000000000
+      internalID: 4484376544375242474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 51
+        width: 69
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe321c8624d1102f0800000000000000
+      internalID: -1008492670491745297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 51
+        width: 71
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8295b9b279132fb50800000000000000
+      internalID: 6625412527156844840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_42
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 51
+        width: 70
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64011a6cf7fbcf10800000000000000
+      internalID: 2291197498931348586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_43
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 51
+        width: 71
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619aac508e85c44c0800000000000000
+      internalID: -4301965790492841706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_44
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 51
+        width: 70
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed654d23bb313a70800000000000000
+      internalID: 8804884387230739945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_46
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 69
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cc7e84b1efdbe80800000000000000
+      internalID: -8161087556584747971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_47
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 3
+        width: 69
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0881e9919d87860800000000000000
+      internalID: 7528005481199599859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_48
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 3
+        width: 69
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aec19a5c986dbbd0800000000000000
+      internalID: -2612817188061327710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_49
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 3
+        width: 69
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d681f4fb19543c0800000000000000
+      internalID: -4375931212068786835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_50
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 3
+        width: 69
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377f744c62eaee280800000000000000
+      internalID: -9012074322796742797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_51
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 3
+        width: 69
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025d5b3eafd182790800000000000000
+      internalID: -7554755411514632928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_52
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 3
+        width: 69
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7608b7683c9a15cd0800000000000000
+      internalID: -2571087255011884953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_53
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 3
+        width: 69
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f35dd889341e2e0800000000000000
+      internalID: -2098321628884287729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_54
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 3
+        width: 69
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64d0e47ce5cb8c20800000000000000
+      internalID: 3209876778795455598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_55
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 3
+        width: 69
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833802e99282d1280800000000000000
+      internalID: -9071049915242609864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_56
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 3
+        width: 69
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40ed4b0d451cf9b0800000000000000
+      internalID: -5045134061915479985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palace Guard_57
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 3
+        width: 69
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c636ce6f8bb05d4b0800000000000000
+      internalID: -5416410087798578324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

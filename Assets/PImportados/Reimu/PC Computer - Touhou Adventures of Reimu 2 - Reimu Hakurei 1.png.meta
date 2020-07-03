@@ -1,0 +1,2254 @@
+fileFormatVersion: 2
+guid: 69c39bc6b8057cb4496f6f53fa8f4903
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7993944118549476390
+    second: ReimuUp0
+  - first:
+      213: 3613583418872582840
+    second: ReimuUp01
+  - first:
+      213: 2494172430611352117
+    second: ReimuUp02
+  - first:
+      213: -8834984708400053360
+    second: ReimuUp03
+  - first:
+      213: -4672674135080208159
+    second: ReimuUp04
+  - first:
+      213: -3259424728427069524
+    second: ReimuUp05
+  - first:
+      213: -5590703241509141857
+    second: ReimuDown0
+  - first:
+      213: 4504218990987137010
+    second: ReimuDown01
+  - first:
+      213: 7969434744031923769
+    second: ReimuDown02
+  - first:
+      213: -4507864283509160522
+    second: ReimuDown03
+  - first:
+      213: 6123327509607600369
+    second: ReimuDown04
+  - first:
+      213: 7640559602075825237
+    second: ReimuDown05
+  - first:
+      213: -5460945228769582548
+    second: ReimuLeft0
+  - first:
+      213: 7323911597956175825
+    second: ReimuLeft01
+  - first:
+      213: -8313718146479867290
+    second: ReimuLeft02
+  - first:
+      213: -6124408783650859038
+    second: ReimuLeft03
+  - first:
+      213: 6694415891783386436
+    second: ReimuLeft04
+  - first:
+      213: 2868351995641643093
+    second: ReimuLeft05
+  - first:
+      213: 2318879133314243275
+    second: ReimuRight0
+  - first:
+      213: -9143718410128413572
+    second: ReimuRight01
+  - first:
+      213: 1680822607320791847
+    second: ReimuRight02
+  - first:
+      213: -6137702371216437645
+    second: ReimuRight03
+  - first:
+      213: 2934732587115126624
+    second: ReimuRight04
+  - first:
+      213: 4911772836719535568
+    second: ReimuRight05
+  - first:
+      213: 4042055633043872500
+    second: MUp00
+  - first:
+      213: -3479538409582248875
+    second: MUp01
+  - first:
+      213: -5633862163775485438
+    second: MUp02
+  - first:
+      213: 4990978733415941076
+    second: MUp03
+  - first:
+      213: -786283048832514962
+    second: MUp04
+  - first:
+      213: 1527516268677150292
+    second: MUp05
+  - first:
+      213: -4594732814305405152
+    second: MDown00
+  - first:
+      213: -181185415764195540
+    second: MDown01
+  - first:
+      213: 8823189115561790823
+    second: MDown02
+  - first:
+      213: -5516131776840696173
+    second: MDown03
+  - first:
+      213: 8766537200647987687
+    second: MDown04
+  - first:
+      213: 7064272873485781138
+    second: MDown05
+  - first:
+      213: -2955678371147987696
+    second: MLeft0
+  - first:
+      213: 1347626692509643828
+    second: MLeft01
+  - first:
+      213: -5798201363255506971
+    second: MLeft02
+  - first:
+      213: -755861234694439404
+    second: MLeft03
+  - first:
+      213: 3779302738455131268
+    second: MLeft04
+  - first:
+      213: 7002039697729644235
+    second: MLeft05
+  - first:
+      213: -7136515112630300029
+    second: MRight00
+  - first:
+      213: -5956482418907252115
+    second: MRight01
+  - first:
+      213: -9151169083028339905
+    second: MRight02
+  - first:
+      213: 6479856177306189532
+    second: MRight03
+  - first:
+      213: 8277941933721762442
+    second: MRight04
+  - first:
+      213: -9189818358499860861
+    second: MRight05
+  - first:
+      213: 1154679242035051516
+    second: AttackUp0
+  - first:
+      213: 1315361963590322253
+    second: AttackUp01
+  - first:
+      213: 1880508738170299526
+    second: AttackUp02
+  - first:
+      213: -1629787142639447718
+    second: AttackDown0
+  - first:
+      213: -2160333777267272901
+    second: AttackDown01
+  - first:
+      213: 8987268476170255870
+    second: AttackDown02
+  - first:
+      213: 2802738665372536117
+    second: AttackLeft0
+  - first:
+      213: -5888986665965561243
+    second: AttackLeft01
+  - first:
+      213: 1839916278103898154
+    second: AttackLeft02
+  - first:
+      213: -8444357382858103070
+    second: AttackRight0
+  - first:
+      213: 1039604254201780270
+    second: AttackRight01
+  - first:
+      213: 6343212656882606829
+    second: AttackRight02
+  - first:
+      213: -2122039485702022904
+    second: Tp0
+  - first:
+      213: -3216649211161085921
+    second: Tp03
+  - first:
+      213: -2050384351941056817
+    second: Dead0
+  - first:
+      213: 25180859047216678
+    second: PC Computer - Touhou Adventures of Reimu 2 - Reimu Hakurei 1_63
+  - first:
+      213: 4265397779708466361
+    second: PC Computer - Touhou Adventures of Reimu 2 - Reimu Hakurei 1_64
+  - first:
+      213: 3400627628986682442
+    second: PC Computer - Touhou Adventures of Reimu 2 - Reimu Hakurei 1_65
+  - first:
+      213: 7556088892170539449
+    second: PC Computer - Touhou Adventures of Reimu 2 - Reimu Hakurei 1_66
+  - first:
+      213: 7266639088711099398
+    second: PC Computer - Touhou Adventures of Reimu 2 - Reimu Hakurei 1_67
+  - first:
+      213: 1181167935103954241
+    second: PC Computer - Touhou Adventures of Reimu 2 - Reimu Hakurei 1_68
+  - first:
+      213: -3289350364453509339
+    second: PC Computer - Touhou Adventures of Reimu 2 - Reimu Hakurei 1_69
+  - first:
+      213: 4930709577979682412
+    second: PC Computer - Touhou Adventures of Reimu 2 - Reimu Hakurei 1_70
+  - first:
+      213: -7390273265909707126
+    second: Tp04
+  - first:
+      213: 7536066844865942627
+    second: Tp05
+  - first:
+      213: 9034349097342838054
+    second: PC Computer - Touhou Adventures of Reimu 2 - Reimu Hakurei 1_73
+  - first:
+      213: 7950657052019970451
+    second: PC Computer - Touhou Adventures of Reimu 2 - Reimu Hakurei 1_74
+  - first:
+      213: -6357930625527775251
+    second: PC Computer - Touhou Adventures of Reimu 2 - Reimu Hakurei 1_75
+  - first:
+      213: -7318254464435232718
+    second: PC Computer - Touhou Adventures of Reimu 2 - Reimu Hakurei 1_76
+  - first:
+      213: 5314169399423606371
+    second: PC Computer - Touhou Adventures of Reimu 2 - Reimu Hakurei 1_77
+  - first:
+      213: 4252881894212552213
+    second: Tp06
+  - first:
+      213: 3862113670376324958
+    second: PC Computer - Touhou Adventures of Reimu 2 - Reimu Hakurei 1_79
+  - first:
+      213: -8511818382654083735
+    second: PC Computer - Touhou Adventures of Reimu 2 - Reimu Hakurei 1_80
+  - first:
+      213: -605822286984018186
+    second: PC Computer - Touhou Adventures of Reimu 2 - Reimu Hakurei 1_81
+  - first:
+      213: 3194402811318103354
+    second: PC Computer - Touhou Adventures of Reimu 2 - Reimu Hakurei 1_82
+  - first:
+      213: -5983212841568056625
+    second: PC Computer - Touhou Adventures of Reimu 2 - Reimu Hakurei 1_83
+  - first:
+      213: -8854039040139289713
+    second: PC Computer - Touhou Adventures of Reimu 2 - Reimu Hakurei 1_84
+  - first:
+      213: 7082277975225737296
+    second: PC Computer - Touhou Adventures of Reimu 2 - Reimu Hakurei 1_85
+  - first:
+      213: -4772851358906113953
+    second: PC Computer - Touhou Adventures of Reimu 2 - Reimu Hakurei 1_86
+  - first:
+      213: 5104821486834154090
+    second: RageDOwn
+  - first:
+      213: 2454545710050467961
+    second: RageRight
+  - first:
+      213: 1797582295149785224
+    second: RageUp
+  - first:
+      213: 3506805260147646085
+    second: RageLeft
+  - first:
+      213: -4524492878128199448
+    second: Idle
+  - first:
+      213: 3606278010369268714
+    second: Fall0
+  - first:
+      213: -4067673810893948767
+    second: Fall01
+  - first:
+      213: -5572966944673292995
+    second: Rest0
+  - first:
+      213: -5856693287052764093
+    second: Rest01
+  - first:
+      213: 2218522111517555324
+    second: PC Computer - Touhou Adventures of Reimu 2 - Reimu Hakurei 1_96
+  - first:
+      213: 5855886442056220212
+    second: IdleUp
+  - first:
+      213: -8092794732209946734
+    second: IdleDown
+  - first:
+      213: -5782163478651108768
+    second: IdleLeft
+  - first:
+      213: -2267450651184921757
+    second: IdleRight
+  - first:
+      213: -3767243832324706271
+    second: Tp01
+  - first:
+      213: 7218335688874511352
+    second: Tp02
+  - first:
+      213: 2494172430611352117
+    second: PC Computer - Touhou Adventures of Reimu 2 - Reimu Hakurei 1_2
+  - first:
+      213: -6055470890878052709
+    second: Dead01
+  - first:
+      213: 3723270514374781448
+    second: Dead02
+  - first:
+      213: -6777406648398821887
+    second: Dead03
+  - first:
+      213: 6078857060566060264
+    second: Dead04
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ReimuUp0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 401
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abdb30f4e7b231478439da1698647ca
+      internalID: -7993944118549476390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReimuUp01
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 401
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19eaefbcfb39c0c4e89309e58d8e5762
+      internalID: 3613583418872582840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReimuUp02
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 401
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00f1a8d745fe6543a66a85260798650
+      internalID: 2494172430611352117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReimuUp03
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 401
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e53b34dca27168428daac6944af0558
+      internalID: -8834984708400053360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReimuUp04
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 401
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07db0fc0dfa6bad40a9802b4917ba0af
+      internalID: -4672674135080208159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReimuUp05
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 400
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7b708c18fc3c64aa137c3745b49dd4
+      internalID: -3259424728427069524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReimuDown0
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 401
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea354ac785858a4499e956e4d72ae70
+      internalID: -5590703241509141857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReimuDown01
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 400
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b6ee814a64c6d4c9b665ee5cc11dad
+      internalID: 4504218990987137010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReimuDown02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 360
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210e9b48d77b65a4796d1f89b38eca36
+      internalID: 7969434744031923769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReimuDown03
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 361
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315bae23df30ab14ca7e2cb113c1c90a
+      internalID: -4507864283509160522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReimuDown04
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 361
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a6fcb46f8916e42b40f6a5a5ce1290
+      internalID: 6123327509607600369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReimuDown05
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 360
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa56df3184002b449ba6d681d53b7610
+      internalID: 7640559602075825237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReimuLeft0
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 362
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d86ddcd3c4f994b9e1743fd2144a34
+      internalID: -5460945228769582548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReimuLeft01
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 362
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfa69288e47ca24bbaebc036cfd12e9
+      internalID: 7323911597956175825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReimuLeft02
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 360
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4b5884ba2b8fc489a61a3b8d461ca2
+      internalID: -8313718146479867290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReimuLeft03
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 362
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5551f586ff7587b4cb265436fd4fc19f
+      internalID: -6124408783650859038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReimuLeft04
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 321
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd26908341bfbf4da21a73884a0c4e0
+      internalID: 6694415891783386436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReimuLeft05
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 320
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8eca4ff09556046b824a23b76a81b1
+      internalID: 2868351995641643093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReimuRight0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 321
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4f31d2c3f07384d85787d4614a2776
+      internalID: 2318879133314243275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReimuRight01
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 321
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bac334420613f34ab6e5941b4b0278d
+      internalID: -9143718410128413572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReimuRight02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2d00e3894bf3044b4cf452d97425b4
+      internalID: 1680822607320791847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReimuRight03
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 321
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bdbfa4726d4a142bb04da44ddb3be0
+      internalID: -6137702371216437645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReimuRight04
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 321
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf4fde01c4a7e1479363b3488d91c48
+      internalID: 2934732587115126624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReimuRight05
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c353f813b8fcba428618084b8e72419
+      internalID: 4911772836719535568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUp00
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 281
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5253623c523faf6439da100b549f0cdc
+      internalID: 4042055633043872500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUp01
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 281
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af5ad9ef3297f94e9b9d85a2b76a8c4
+      internalID: -3479538409582248875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUp02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 280
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73198999bfbfb24faa1558e9284b63e
+      internalID: -5633862163775485438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUp03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 281
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1f2b929adc0b3479e1aeacfe012f6a
+      internalID: 4990978733415941076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUp04
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 281
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b214d17e8192f0447a65e2604062719f
+      internalID: -786283048832514962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUp05
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 280
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc5f5b9600a1e84489b5f453b2c985b
+      internalID: 1527516268677150292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MDown00
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 281
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091067003c8de064eb9037c8c7c47c85
+      internalID: -4594732814305405152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MDown01
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 280
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436e3e63f3e99f049ad19b5ec563b8c1
+      internalID: -181185415764195540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MDown02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 240
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffd4c94e3fe4ad4baa6a2fe2d323d73
+      internalID: 8823189115561790823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MDown03
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 241
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53eade4e0793084586777551e59dd6a
+      internalID: -5516131776840696173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MDown04
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 240
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f20f62882b48014d89172946f4a0d64
+      internalID: 8766537200647987687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MDown05
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 240
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49692935a0c37b54dad29cfa4ca57b03
+      internalID: 7064272873485781138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLeft0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b49d1c2103404459aa78a010b83e33
+      internalID: -2955678371147987696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLeft01
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 241
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6a3bd890abe56478628737b1dfb65d
+      internalID: 1347626692509643828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLeft02
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 241
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998905617e5030d49be25587a63fef8e
+      internalID: -5798201363255506971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLeft03
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 241
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0861fad216ccd48b2f2feb38b702aa
+      internalID: -755861234694439404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLeft04
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40f884fcb2655847acc3875458f4cf6
+      internalID: 3779302738455131268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MLeft05
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 200
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a8e5198f43bf2468e25747a17577e2
+      internalID: 7002039697729644235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MRight00
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 201
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646399ab80bdd334a8f7f9442fc508d2
+      internalID: -7136515112630300029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MRight01
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 201
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1c158d9d239504f98d5ec649bcbe6e
+      internalID: -5956482418907252115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MRight02
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 201
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4157b40049189464ab6733c51347d560
+      internalID: -9151169083028339905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MRight03
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 201
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551b17f9974c2f840b3a4a90e350a7f2
+      internalID: 6479856177306189532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MRight04
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 201
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daaced7230865f6479f9bcf4e141b035
+      internalID: 8277941933721762442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MRight05
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 201
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff41698ead712b0478a1da9fd0587703
+      internalID: -9189818358499860861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackUp0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 161
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89067272dd4c1074484555fdcb3af748
+      internalID: 1154679242035051516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackUp01
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 161
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10941fc17162a444fac9b56ba6a39d05
+      internalID: 1315361963590322253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackUp02
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 161
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0019f823032c79746a9d4194c0ffbf4c
+      internalID: 1880508738170299526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackDown0
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 161
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2389074bf94712f438345bd916f3749b
+      internalID: -1629787142639447718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackDown01
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 160
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea292ba74cf131b4093b6e4a385e0215
+      internalID: -2160333777267272901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackDown02
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 162
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2748aaa1f2e0c43a890f0717f4c21c
+      internalID: 8987268476170255870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackLeft0
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 161
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79881a167f58a2e41bf5fa19dcf57407
+      internalID: 2802738665372536117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackLeft01
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 161
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d297f57efa54044d807093ec98ba75e
+      internalID: -5888986665965561243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackLeft02
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 121
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3c334de45a66542831d8f957b919fd
+      internalID: 1839916278103898154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackRight0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 121
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41cbe0e2812f2442b6fb5c25533649a
+      internalID: -8444357382858103070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackRight01
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 120
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda6720040c405342a2a9b86fff0e902
+      internalID: 1039604254201780270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackRight02
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 120
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc807b2c715f034a92eddfa266fb8ad
+      internalID: 6343212656882606829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 121
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d371fc925b95f4abe9976638901fe2
+      internalID: -2122039485702022904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp03
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 124
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf47f9158856a4148af9bf8fee89ff74
+      internalID: -3216649211161085921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead0
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 81
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d5fb46a10b2ee479092f787b377c18
+      internalID: -2050384351941056817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp04
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 84
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d13db06de5ddac429608ab91a8b70da
+      internalID: -7390273265909707126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp05
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 84
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c435a3f32610494bac2e95396e832ea
+      internalID: 7536066844865942627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp06
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 84
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15443a71cb4f74640bcc51d040e6fccd
+      internalID: 4252881894212552213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RageDOwn
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 41
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edd0f4ed6c73e348a31e0ddf048426d
+      internalID: 5104821486834154090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RageRight
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 41
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb70f2aeb91d1e458d8cd2eb4235f62
+      internalID: 2454545710050467961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RageUp
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 41
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb5ca878f84c034aa56b802101ff3fe
+      internalID: 1797582295149785224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RageLeft
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 41
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c846f71950e01489916ae2f8af81e3
+      internalID: 3506805260147646085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 42
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8113233eae56f7f40b470ab343f4e828
+      internalID: -4524492878128199448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall0
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 42
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d299e5109d2cc459d42bc44ef0ecea
+      internalID: 3606278010369268714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall01
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 44
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ae07cbb43151e4dbf1c7cba9eac4cd
+      internalID: -4067673810893948767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rest0
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 41
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ef3db8db25bbe4cbfd0f0e256eda7d
+      internalID: -5572966944673292995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rest01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40f7267aa7609c41a77f6fd13ece358
+      internalID: -5856693287052764093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Adventures of Reimu 2 - Reimu Hakurei 1_96
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5c343ce5ba51948a5a16aee6fbd604
+      internalID: 2218522111517555324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleUp
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e16949256ad064a9cc6483dd9174fe
+      internalID: 5855886442056220212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDown
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725b2d5fc898e004b96f7e4ef5860362
+      internalID: -8092794732209946734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleLeft
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7327445ff04a9094e902f7e0ed3fa4f8
+      internalID: -5782163478651108768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleRight
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0a2cc2f84583e448a9dc1914783cfd
+      internalID: -2267450651184921757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp01
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 123
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34f8639b0547f54e9046f4d2626c10c
+      internalID: -3767243832324706271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp02
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 123
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630b97372d32c6d4eb63ffd055629792
+      internalID: 7218335688874511352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Adventures of Reimu 2 - Reimu Hakurei 1_2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 122
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aea7197db116d241ad6d54470576b6b
+      internalID: 2494172430611352117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead01
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 82
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4837102ac4d706448b18d2dbfd3c58b9
+      internalID: -6055470890878052709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead02
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 80
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5b72baccdb9834a9592b067a8bcbbb
+      internalID: 3723270514374781448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead03
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a077c38662c9ac94c853a2aefa142d09
+      internalID: -6777406648398821887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead04
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 79
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccd73aa05f589b49b58bf274facda9e
+      internalID: 6078857060566060264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

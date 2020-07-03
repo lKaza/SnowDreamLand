@@ -1,0 +1,3148 @@
+fileFormatVersion: 2
+guid: f8037690dcb08874db03645abf27e68c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8116390113922092151
+    second: Old Hags Forest Enemies_0
+  - first:
+      213: -6608157225886216453
+    second: Old Hags Forest Enemies_1
+  - first:
+      213: -5303207697178098831
+    second: Old Hags Forest Enemies_2
+  - first:
+      213: 7473427033053681952
+    second: Old Hags Forest Enemies_3
+  - first:
+      213: 3729051048600515257
+    second: Old Hags Forest Enemies_4
+  - first:
+      213: 9147172267494316722
+    second: Old Hags Forest Enemies_5
+  - first:
+      213: 6510360020980687750
+    second: Old Hags Forest Enemies_6
+  - first:
+      213: -8305719008173489451
+    second: Old Hags Forest Enemies_7
+  - first:
+      213: -2223145941838651354
+    second: Old Hags Forest Enemies_8
+  - first:
+      213: -7657980552490433591
+    second: Old Hags Forest Enemies_9
+  - first:
+      213: 7624219840191411169
+    second: Old Hags Forest Enemies_10
+  - first:
+      213: 7727957808217277657
+    second: Old Hags Forest Enemies_11
+  - first:
+      213: -199043425562005078
+    second: Old Hags Forest Enemies_12
+  - first:
+      213: 2606122496047583218
+    second: Old Hags Forest Enemies_13
+  - first:
+      213: 5887597152705168146
+    second: Old Hags Forest Enemies_14
+  - first:
+      213: 6217479276217410699
+    second: Old Hags Forest Enemies_15
+  - first:
+      213: 2240196158879284072
+    second: Old Hags Forest Enemies_16
+  - first:
+      213: -6732735913095413649
+    second: Old Hags Forest Enemies_3
+  - first:
+      213: -5995511634116920422
+    second: Old Hags Forest Enemies_18
+  - first:
+      213: -8536520588340401163
+    second: Old Hags Forest Enemies_19
+  - first:
+      213: -2379136699335702598
+    second: Old Hags Forest Enemies_20
+  - first:
+      213: -2224933858905892502
+    second: Old Hags Forest Enemies_21
+  - first:
+      213: 6797044788197886749
+    second: Old Hags Forest Enemies_22
+  - first:
+      213: 7055154842186570153
+    second: Old Hags Forest Enemies_23
+  - first:
+      213: 3852795173680126804
+    second: Old Hags Forest Enemies_24
+  - first:
+      213: -4756044921036220621
+    second: Old Hags Forest Enemies_25
+  - first:
+      213: 5229948161829964194
+    second: Old Hags Forest Enemies_26
+  - first:
+      213: -6075138013363477161
+    second: Old Hags Forest Enemies_27
+  - first:
+      213: -6528245956975052160
+    second: Old Hags Forest Enemies_28
+  - first:
+      213: 292617598304927991
+    second: Old Hags Forest Enemies_29
+  - first:
+      213: -8968020971265820532
+    second: Old Hags Forest Enemies_30
+  - first:
+      213: 366636300758428606
+    second: Old Hags Forest Enemies_31
+  - first:
+      213: -9168149788488083417
+    second: Old Hags Forest Enemies_32
+  - first:
+      213: 4423231394687306316
+    second: Old Hags Forest Enemies_33
+  - first:
+      213: -3094823726247950249
+    second: Old Hags Forest Enemies_34
+  - first:
+      213: -3309304858860904665
+    second: Old Hags Forest Enemies_35
+  - first:
+      213: 4835433238712722985
+    second: Old Hags Forest Enemies_36
+  - first:
+      213: 4475627732966656941
+    second: Old Hags Forest Enemies_37
+  - first:
+      213: -471991032852633377
+    second: Old Hags Forest Enemies_38
+  - first:
+      213: -2115612724028219393
+    second: Old Hags Forest Enemies_39
+  - first:
+      213: 4650839229415005898
+    second: Old Hags Forest Enemies_40
+  - first:
+      213: 5070794421241667573
+    second: Old Hags Forest Enemies_41
+  - first:
+      213: -2275054187723526937
+    second: Old Hags Forest Enemies_42
+  - first:
+      213: -1694519838789867127
+    second: Old Hags Forest Enemies_43
+  - first:
+      213: 4335635072779243693
+    second: Old Hags Forest Enemies_44
+  - first:
+      213: 579444728643921444
+    second: Old Hags Forest Enemies_45
+  - first:
+      213: 1618709884328480657
+    second: Old Hags Forest Enemies_46
+  - first:
+      213: -4085855576433454077
+    second: Old Hags Forest Enemies_47
+  - first:
+      213: 8481811111762849326
+    second: Old Hags Forest Enemies_48
+  - first:
+      213: 4499631478372106286
+    second: Old Hags Forest Enemies_49
+  - first:
+      213: 3013334943941542293
+    second: Old Hags Forest Enemies_50
+  - first:
+      213: -5980523832143797177
+    second: Old Hags Forest Enemies_51
+  - first:
+      213: -8247677197244261275
+    second: Old Hags Forest Enemies_52
+  - first:
+      213: 1823165851525160313
+    second: Old Hags Forest Enemies_53
+  - first:
+      213: -862467539755056763
+    second: Old Hags Forest Enemies_54
+  - first:
+      213: -9061931479388909299
+    second: Old Hags Forest Enemies_55
+  - first:
+      213: 3890554724311448500
+    second: Old Hags Forest Enemies_56
+  - first:
+      213: -9152721858966936950
+    second: Old Hags Forest Enemies_57
+  - first:
+      213: -1407965037459144710
+    second: Old Hags Forest Enemies_58
+  - first:
+      213: -4225882520477898854
+    second: Old Hags Forest Enemies_59
+  - first:
+      213: -1410616065470302677
+    second: Old Hags Forest Enemies_60
+  - first:
+      213: -904561049867066110
+    second: Old Hags Forest Enemies_61
+  - first:
+      213: -1645438667456543949
+    second: Old Hags Forest Enemies_62
+  - first:
+      213: 4713744718135646160
+    second: Old Hags Forest Enemies_63
+  - first:
+      213: -3092472655236190077
+    second: Old Hags Forest Enemies_64
+  - first:
+      213: -174273568709442337
+    second: Old Hags Forest Enemies_65
+  - first:
+      213: 2559577187092600702
+    second: Old Hags Forest Enemies_66
+  - first:
+      213: -1549932152662876382
+    second: Old Hags Forest Enemies_67
+  - first:
+      213: -5840519760601037805
+    second: Old Hags Forest Enemies_68
+  - first:
+      213: -2149956644933217246
+    second: Old Hags Forest Enemies_69
+  - first:
+      213: -181915648230588309
+    second: Old Hags Forest Enemies_70
+  - first:
+      213: 8274277312316285216
+    second: Old Hags Forest Enemies_71
+  - first:
+      213: 6287662974334247658
+    second: Old Hags Forest Enemies_72
+  - first:
+      213: 6438688409664042115
+    second: Old Hags Forest Enemies_73
+  - first:
+      213: -3789674775289110113
+    second: Old Hags Forest Enemies_74
+  - first:
+      213: -3043468230893964605
+    second: Old Hags Forest Enemies_75
+  - first:
+      213: -7505994713961875074
+    second: Old Hags Forest Enemies_76
+  - first:
+      213: 1296046445146505666
+    second: Old Hags Forest Enemies_77
+  - first:
+      213: -8262692758933304357
+    second: Old Hags Forest Enemies_78
+  - first:
+      213: 6344259953244953991
+    second: Old Hags Forest Enemies_79
+  - first:
+      213: 435256885889573496
+    second: Old Hags Forest Enemies_80
+  - first:
+      213: -6441174198665963440
+    second: Old Hags Forest Enemies_81
+  - first:
+      213: -2203002703677007716
+    second: Old Hags Forest Enemies_82
+  - first:
+      213: -5253550611368361454
+    second: Old Hags Forest Enemies_83
+  - first:
+      213: 7479263715391355691
+    second: Old Hags Forest Enemies_84
+  - first:
+      213: 5438188265451515161
+    second: Old Hags Forest Enemies_85
+  - first:
+      213: -4625561414747325062
+    second: Old Hags Forest Enemies_86
+  - first:
+      213: -869060989756537886
+    second: Old Hags Forest Enemies_87
+  - first:
+      213: -1985193928645296405
+    second: Old Hags Forest Enemies_88
+  - first:
+      213: 143849789347951018
+    second: Old Hags Forest Enemies_89
+  - first:
+      213: -1633857355953588029
+    second: Old Hags Forest Enemies_90
+  - first:
+      213: 8694685568515288136
+    second: Old Hags Forest Enemies_91
+  - first:
+      213: -7389179881938716431
+    second: Old Hags Forest Enemies_92
+  - first:
+      213: 5948529571652547315
+    second: Old Hags Forest Enemies_93
+  - first:
+      213: 8896998812191470231
+    second: Old Hags Forest Enemies_94
+  - first:
+      213: 4812247762456873166
+    second: Old Hags Forest Enemies_95
+  - first:
+      213: 5798747662412078652
+    second: Old Hags Forest Enemies_96
+  - first:
+      213: -1883482429130455854
+    second: Old Hags Forest Enemies_97
+  - first:
+      213: -7052230197590413775
+    second: Old Hags Forest Enemies_98
+  - first:
+      213: 8129657967861933204
+    second: Old Hags Forest Enemies_99
+  - first:
+      213: 2506144839167229431
+    second: Old Hags Forest Enemies_100
+  - first:
+      213: -6783034177243388053
+    second: Old Hags Forest Enemies_101
+  - first:
+      213: 4182545836297298503
+    second: Old Hags Forest Enemies_102
+  - first:
+      213: -401636757164249687
+    second: Old Hags Forest Enemies_103
+  - first:
+      213: 152244423588974297
+    second: Old Hags Forest Enemies_104
+  - first:
+      213: 5742376242277593549
+    second: Old Hags Forest Enemies_105
+  - first:
+      213: 5726883215617911156
+    second: Old Hags Forest Enemies_106
+  - first:
+      213: -6171459137460023959
+    second: Old Hags Forest Enemies_107
+  - first:
+      213: -8944019753585935500
+    second: Old Hags Forest Enemies_108
+  - first:
+      213: 5945469506269257848
+    second: Old Hags Forest Enemies_109
+  - first:
+      213: 6760722945476795778
+    second: Old Hags Forest Enemies_110
+  - first:
+      213: 1954390868495078934
+    second: Old Hags Forest Enemies_111
+  - first:
+      213: -3250336367612444839
+    second: Old Hags Forest Enemies_112
+  - first:
+      213: -3260018906785846504
+    second: Old Hags Forest Enemies_113
+  - first:
+      213: -555948769848194494
+    second: Old Hags Forest Enemies_114
+  - first:
+      213: 6969614720375149525
+    second: Old Hags Forest Enemies_115
+  - first:
+      213: -5424600084577061574
+    second: Old Hags Forest Enemies_116
+  - first:
+      213: 2545415816468147133
+    second: Old Hags Forest Enemies_117
+  - first:
+      213: 1651931727048552504
+    second: Old Hags Forest Enemies_118
+  - first:
+      213: 5595762195954797096
+    second: Old Hags Forest Enemies_119
+  - first:
+      213: 7604005801358200875
+    second: Old Hags Forest Enemies_120
+  - first:
+      213: -1999280582798223788
+    second: Old Hags Forest Enemies_121
+  - first:
+      213: 7103572011252463936
+    second: Old Hags Forest Enemies_122
+  - first:
+      213: 1457789396087889203
+    second: Old Hags Forest Enemies_123
+  - first:
+      213: 3591015938541127984
+    second: Old Hags Forest Enemies_124
+  - first:
+      213: 4134250355570651016
+    second: Old Hags Forest Enemies_125
+  - first:
+      213: -5598982676294784019
+    second: Old Hags Forest Enemies_126
+  - first:
+      213: 8718215415927971666
+    second: Old Hags Forest Enemies_127
+  - first:
+      213: 2060164369610321459
+    second: Old Hags Forest Enemies_128
+  - first:
+      213: -4463183677471659412
+    second: Old Hags Forest Enemies_129
+  - first:
+      213: -327124536787643312
+    second: Old Hags Forest Enemies_130
+  - first:
+      213: 1270572866748401591
+    second: Old Hags Forest Enemies_131
+  - first:
+      213: -3450627777212707326
+    second: Old Hags Forest Enemies_132
+  - first:
+      213: 8098558240348635220
+    second: Old Hags Forest Enemies_133
+  - first:
+      213: -951490893331472155
+    second: Old Hags Forest Enemies_134
+  - first:
+      213: -2411765410295935840
+    second: Old Hags Forest Enemies_135
+  - first:
+      213: 535692320923045743
+    second: Old Hags Forest Enemies_136
+  - first:
+      213: -5560000117998818900
+    second: Old Hags Forest Enemies_137
+  - first:
+      213: 7639498160155550325
+    second: Old Hags Forest Enemies_138
+  - first:
+      213: -5587021624350117223
+    second: Old Hags Forest Enemies_139
+  - first:
+      213: -7679316306909903353
+    second: Old Hags Forest Enemies_140
+  - first:
+      213: -7099648202767959428
+    second: Old Hags Forest Enemies_141
+  - first:
+      213: -4690083201857907829
+    second: Old Hags Forest Enemies_142
+  - first:
+      213: -2975621300303305837
+    second: Old Hags Forest Enemies_143
+  - first:
+      213: 2027368097633718398
+    second: Old Hags Forest Enemies_144
+  - first:
+      213: 2874820103890846910
+    second: Old Hags Forest Enemies_145
+  - first:
+      213: 4192064295138790581
+    second: Old Hags Forest Enemies_146
+  - first:
+      213: -6892861493421537308
+    second: Old Hags Forest Enemies_147
+  - first:
+      213: 4113339434032573081
+    second: Old Hags Forest Enemies_148
+  - first:
+      213: -3695654509053643891
+    second: Old Hags Forest Enemies_149
+  - first:
+      213: 8884452745731619396
+    second: Old Hags Forest Enemies_150
+  - first:
+      213: 5856006943472070660
+    second: Old Hags Forest Enemies_151
+  - first:
+      213: -2424287184927209460
+    second: Old Hags Forest Enemies_152
+  - first:
+      213: -1523676642462350566
+    second: Old Hags Forest Enemies_153
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 254
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9837e21a13acc5f80800000000000000
+      internalID: -8116390113922092151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 254
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe0f1bb30c1b44a0800000000000000
+      internalID: -6608157225886216453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 255
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173059f62b83766b0800000000000000
+      internalID: -5303207697178098831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 248
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2b12ddb2040c330800000000000000
+      internalID: 3729051048600515257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 248
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba9d47a6b841fe70800000000000000
+      internalID: 9147172267494316722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 248
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683657a12f1795a50800000000000000
+      internalID: 6510360020980687750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 231
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d20c9151982cbc80800000000000000
+      internalID: -8305719008173489451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 229
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6202bdc6b8cc521e0800000000000000
+      internalID: -2223145941838651354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 230
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c345ffd24369b590800000000000000
+      internalID: -7657980552490433591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_10
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 229
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e33810cc8baec960800000000000000
+      internalID: 7624219840191411169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_11
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 235
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d44ffd9ea83f3b60800000000000000
+      internalID: 7727957808217277657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_12
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 244
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1ff7c1f0bdc3df0800000000000000
+      internalID: -199043425562005078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_13
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 263
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff02123a9eca2420800000000000000
+      internalID: 2606122496047583218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 264
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213c793aa62f4b150800000000000000
+      internalID: 5887597152705168146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_15
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 263
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84aa49c57ce84650800000000000000
+      internalID: 6217479276217410699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_16
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 264
+        width: 128
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bb1359986c61f10800000000000000
+      internalID: 2240196158879284072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_20
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 223
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab70004f6cb9bfed0800000000000000
+      internalID: -2379136699335702598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_21
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 232
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69dc2b81727f11e0800000000000000
+      internalID: -2224933858905892502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 259
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b84faf834f35e50800000000000000
+      internalID: 6797044788197886749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 231
+        width: 68
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a958ebf2f1f8e160800000000000000
+      internalID: 7055154842186570153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 214
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b1b872cc0e77530800000000000000
+      internalID: 3852795173680126804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 215
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337d5d9c7522ffdb0800000000000000
+      internalID: -4756044921036220621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 215
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9059bc422849840800000000000000
+      internalID: 5229948161829964194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_30
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 224
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c887275f0703b8380800000000000000
+      internalID: -8968020971265820532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_31
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 223
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb2874e5cd861500800000000000000
+      internalID: 366636300758428606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_32
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 228
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7285891a75034c080800000000000000
+      internalID: -9168149788488083417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_34
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 233
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7584a82d73afc05d0800000000000000
+      internalID: -3094823726247950249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_36
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 188
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926a69059e8ea1340800000000000000
+      internalID: 4835433238712722985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_42
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 175
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec69ff15426d60e0800000000000000
+      internalID: -2275054187723526937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_43
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 220
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989e3104f2bdb78e0800000000000000
+      internalID: -1694519838789867127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_44
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 220
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da05bb4a0254b2c30800000000000000
+      internalID: 4335635072779243693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_45
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 200
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4262bc129e99a0800800000000000000
+      internalID: 579444728643921444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_46
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 191
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f00d14010d67610800000000000000
+      internalID: 1618709884328480657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_48
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 176
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ee590844275b570800000000000000
+      internalID: 8481811111762849326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_50
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 186
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59148ea8a2481d920800000000000000
+      internalID: 3013334943941542293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_51
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 172
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744af46c249e00da0800000000000000
+      internalID: -5980523832143797177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_52
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 167
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c9a24894d5a8d80800000000000000
+      internalID: -8247677197244261275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_53
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 175
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d97c2beaf2d4910800000000000000
+      internalID: 1823165851525160313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_54
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 192
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58148969756e704f0800000000000000
+      internalID: -862467539755056763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_55
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 192
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d011818e45d8d3280800000000000000
+      internalID: -9061931479388909299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_56
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 192
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb3dc1a8e60ef530800000000000000
+      internalID: 3890554724311448500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_57
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 166
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82a25466fffaf080800000000000000
+      internalID: -9152721858966936950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_58
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 175
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afff3161247e57ce0800000000000000
+      internalID: -1407965037459144710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_59
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 175
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97e160cc36aa55c0800000000000000
+      internalID: -4225882520477898854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_60
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 175
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26fe27892c7c6ce0800000000000000
+      internalID: -1410616065470302677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_61
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 185
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205e409848a5273f0800000000000000
+      internalID: -904561049867066110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_62
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 200
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3338f86ff3a3a29e0800000000000000
+      internalID: -1645438667456543949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_65
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 185
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd48553dc1bd49df0800000000000000
+      internalID: -174273568709442337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_66
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 164
+        width: 62
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7719d3f3e1758320800000000000000
+      internalID: 2559577187092600702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_69
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 159
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224d34882d1d922e0800000000000000
+      internalID: -2149956644933217246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_70
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 172
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6081288ea4b97df0800000000000000
+      internalID: -181915648230588309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_71
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 174
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021afa5606324d270800000000000000
+      internalID: 8274277312316285216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_72
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 175
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2a1946924424750800000000000000
+      internalID: 6287662974334247658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_75
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 127
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2f06cd4cd63c5d0800000000000000
+      internalID: -3043468230893964605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_76
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 159
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79b75c739955d790800000000000000
+      internalID: -7505994713961875074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_77
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 159
+        width: 57
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c18d57006b7cf110800000000000000
+      internalID: 1296046445146505666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_78
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 165
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb869f96b4055d80800000000000000
+      internalID: -8262692758933304357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_79
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 155
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78dd6eb60d65b0850800000000000000
+      internalID: 6344259953244953991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_80
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 160
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872ad75e4d75a0600800000000000000
+      internalID: 435256885889573496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_82
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 143
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c985b1886bc5d61e0800000000000000
+      internalID: -2203002703677007716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_83
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 153
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2124adfad83a717b0800000000000000
+      internalID: -5253550611368361454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_84
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 152
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bbe59e8beabc760800000000000000
+      internalID: 7479263715391355691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_85
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 153
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d6fe72a63587b40800000000000000
+      internalID: 5438188265451515161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_87
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 151
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3896162a970f3f0800000000000000
+      internalID: -869060989756537886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_88
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 159
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beeb5d0d3ac2374e0800000000000000
+      internalID: -1985193928645296405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_89
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 160
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1791b0f9e0ff100800000000000000
+      internalID: 143849789347951018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_90
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 143
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c83abc246f5359e0800000000000000
+      internalID: -1633857355953588029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_91
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 93
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ca119457ab9a870800000000000000
+      internalID: 8694685568515288136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_92
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 95
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f874930c0c547990800000000000000
+      internalID: -7389179881938716431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_93
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 143
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2b146f02c6d8250800000000000000
+      internalID: 5948529571652547315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_94
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 127
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792beb7084d787b70800000000000000
+      internalID: 8896998812191470231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_95
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 119
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec80964f7d988c240800000000000000
+      internalID: 4812247762456873166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_96
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 111
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ed230a64a497050800000000000000
+      internalID: 5798747662412078652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_97
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 128
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d44df6b5b68cd5e0800000000000000
+      internalID: -1883482429130455854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_98
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 78
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e2756eff1712e90800000000000000
+      internalID: -7052230197590413775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_99
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 113
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494a5d759d852d070800000000000000
+      internalID: 8129657967861933204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_100
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 95
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdbd3ef37d97c220800000000000000
+      internalID: 2506144839167229431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_101
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 117
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67e2169a52ddd1a0800000000000000
+      internalID: -6783034177243388053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_102
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 95
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7422a4d27436b0a30800000000000000
+      internalID: 4182545836297298503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_103
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 95
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad2c705f791d6af0800000000000000
+      internalID: -401636757164249687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_104
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 97
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de0e032f71ec1200800000000000000
+      internalID: 152244423588974297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_108
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 87
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47bfe6beb6570e380800000000000000
+      internalID: -8944019753585935500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_109
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 79
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870a818f30d828250800000000000000
+      internalID: 5945469506269257848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_110
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 38
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d1af5f2b9e2dd50800000000000000
+      internalID: 6760722945476795778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_111
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 37
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6169aecd3246f1b10800000000000000
+      internalID: 1954390868495078934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_113
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 82
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81be8fb931612c2d0800000000000000
+      internalID: -3260018906785846504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_114
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 68
+        width: 51
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a02e31a8fd848f0800000000000000
+      internalID: -555948769848194494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_115
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 64
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d35b4d59ab09b060800000000000000
+      internalID: 6969614720375149525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_116
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 63
+        width: 63
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35fa3eb6f2f7b4b0800000000000000
+      internalID: -5424600084577061574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_117
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 66
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbae3ae232235320800000000000000
+      internalID: 2545415816468147133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_118
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 62
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8303de74727dce610800000000000000
+      internalID: 1651931727048552504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_120
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 38
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2017f31dfad68960800000000000000
+      internalID: 7604005801358200875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_121
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 55
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456d9ff07e02144e0800000000000000
+      internalID: -1999280582798223788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_122
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 66
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0493c1f9b15f49260800000000000000
+      internalID: 7103572011252463936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_123
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 42
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d56276bbb1b3410800000000000000
+      internalID: 1457789396087889203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_124
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 68
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039828758f9d5d130800000000000000
+      internalID: 3591015938541127984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_125
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 47
+        width: 63
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f22505bcecf5930800000000000000
+      internalID: 4134250355570651016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_127
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 49
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f98bdcab25df870800000000000000
+      internalID: 8718215415927971666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_128
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 39
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e2a85349c279c10800000000000000
+      internalID: 2060164369610321459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_129
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 50
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6aeaf0a7169f02c0800000000000000
+      internalID: -4463183677471659412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_130
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 50
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054557b87f1d57bf0800000000000000
+      internalID: -327124536787643312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_131
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 50
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7c9cf5a4bf1a110800000000000000
+      internalID: 1270572866748401591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_135
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 6
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac8cbd2320b78ed0800000000000000
+      internalID: -2411765410295935840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_136
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 8
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fc581e3592f6700800000000000000
+      internalID: 535692320923045743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_138
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 4
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5726252d913f40a60800000000000000
+      internalID: 7639498160155550325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_139
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 6
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9927f281f69e672b0800000000000000
+      internalID: -5587021624350117223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_140
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 3
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70645c071869d6590800000000000000
+      internalID: -7679316306909903353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_141
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 17
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a76cb339bf87d90800000000000000
+      internalID: -7099648202767959428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_142
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 16
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b839b325d2a79eeb0800000000000000
+      internalID: -4690083201857907829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_143
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 17
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393e551613874b6d0800000000000000
+      internalID: -2975621300303305837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_144
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 12
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70da681b88a22c10800000000000000
+      internalID: 2027368097633718398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_145
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 12
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4c09d27a965e720800000000000000
+      internalID: 2874820103890846910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_146
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 12
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc885314443d2a30800000000000000
+      internalID: 4192064295138790581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_147
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 4
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e704aeddf2a750a0800000000000000
+      internalID: -6892861493421537308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_148
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 5
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a2e1efb64851930800000000000000
+      internalID: 4113339434032573081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_149
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 4
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83794fedc566bcc0800000000000000
+      internalID: -3695654509053643891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_150
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 3
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ab31d43baeb4b70800000000000000
+      internalID: 8884452745731619396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_151
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 4
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400bfd3e947b44150800000000000000
+      internalID: 5856006943472070660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_152
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 3
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08c1e456a33b5ed0800000000000000
+      internalID: -2424287184927209460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_112
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 10
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f3def6b4c74e2d0800000000000000
+      internalID: -3250336367612444839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_137
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 6
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9ec8fc959e6d2b0800000000000000
+      internalID: -5560000117998818900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_153
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 5
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13c87d9a20dadae0800000000000000
+      internalID: -1523676642462350566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old Hags Forest Enemies_3
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 47
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60ce6dcb548092a0800000000000000
+      internalID: -6732735913095413649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
